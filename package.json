@@ -1,11 +1,9 @@
 {
-  "name": "ldb-api",
+  "name": "list-discordbot-api",
   "version": "1.0.0",
   "description": "List DiscordBot api",
-  "main": "./src/app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "keywords": [],
   "author": "Jeremy",
   "license": "ISC",
