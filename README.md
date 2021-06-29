@@ -4,3 +4,5 @@
 + ```npm install ldb-api```
 
 ---
+
+**getBot(idBot)**
