@@ -1,7 +1,7 @@
 # List DiscordBot API
 
-**How to install ldb-api**
-+ ```npm install ldb-api```
+**How to install list-discordbot-api**
++ ```npm install list-discordbot-api```
 
 ---
 
