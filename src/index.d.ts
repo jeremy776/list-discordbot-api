@@ -1,5 +1,5 @@
 declare module 'list-discordbot-api' {
-    export function getBot(id: string): getBotResults;
+    export function getBot(id: string): Promise<getBotResults>;
 
     export interface getBotResults {
         id: string;
