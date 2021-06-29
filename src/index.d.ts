@@ -11,7 +11,7 @@ declare module 'list-discordbot-api' {
         totalVote: string;
         website: string | null;
         supportServer: string;
-        tags: string[];
+        tags: string | string[];
         library: string;
         status: string;
         owner: {
