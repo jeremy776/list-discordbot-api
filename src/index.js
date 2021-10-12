@@ -14,7 +14,7 @@ async function getBot(id) {
         let get = await axios.get(baseURL + '/bot?id=' + id);
         return get.data;
     } catch (e) {
-        throw new Error('An error occured when fetching data, make sure if bot exist.')
+        throw new Error('An error occured when fetching data, make sure if bot exist.');
     }
 }
 
